@@ -10,6 +10,6 @@
 
 ## Технології
 * [Python 3.14.3](https://www.python.org/);
-* [pyTelegramBotAPI] — для роботи з Telegram;
-* [Google Generative AI SDK] — для доступу до Gemini;
-* [python-dotenv] — для керування змінними оточення.
+* pyTelegramBotAPI для роботи з Telegram;
+* google-genai для доступу до Gemini;
+* python-dotenv для керування змінними оточення.
